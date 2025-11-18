@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
+  <diagram name="Page-1" id="nGU61dVBEZoTYSdnFKyS">
+    <mxGraphModel dx="877" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gkhMJInjab0Wm8FUE8yr-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="120" width="530" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhMJInjab0Wm8FUE8yr-1" value="RIVIERE" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Lucida Console;fontStyle=1;fontSize=31;" vertex="1" parent="1">
+          <mxGeometry x="370" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhMJInjab0Wm8FUE8yr-2" value="Débit Q, Hauteur H" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhMJInjab0Wm8FUE8yr-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="140" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhMJInjab0Wm8FUE8yr-6" value="Prise d&#39;eau / Grille" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Lucida Console;fontSize=12;fontColor=default;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="312.25" y="140" width="175.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhMJInjab0Wm8FUE8yr-7" value="Capte une partie du débit&amp;nbsp;&lt;div&gt;Retiens feuilles et débris&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="160" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhMJInjab0Wm8FUE8yr-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gkhMJInjab0Wm8FUE8yr-2" target="gkhMJInjab0Wm8FUE8yr-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="270" as="sourcePoint" />
+            <mxPoint x="450" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gkhMJInjab0Wm8FUE8yr-10" value="EAU" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#4D7FB4;" vertex="1" connectable="0" parent="gkhMJInjab0Wm8FUE8yr-9">
+          <mxGeometry x="-0.2006" y="-1" relative="1" as="geometry">
+            <mxPoint x="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gkhMJInjab0Wm8FUE8yr-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="220" width="205" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhMJInjab0Wm8FUE8yr-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="290" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhMJInjab0Wm8FUE8yr-15" value="ROTOR De la Turbine" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Lucida Console;fontSize=12;fontColor=default;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="312.25" y="290" width="175.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhMJInjab0Wm8FUE8yr-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="250" width="205" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
